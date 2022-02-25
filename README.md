@@ -35,8 +35,10 @@ struct ContentView: View {
 
 ## Other projects
 
-[CachedAsyncImage 🗃️](https://github.com/lorenzofiamingo/SwiftUI-CachedAsyncImage)
+[SwiftUI MapItemPicker 🗺️](https://github.com/lorenzofiamingo/SwiftUI-MapItemPicker)
 
-[VerticalTabView 🔝](https://github.com/lorenzofiamingo/SwiftUI-VerticalTabView)
+[SwiftUI CachedAsyncImage 🗃️](https://github.com/lorenzofiamingo/SwiftUI-CachedAsyncImage)
 
-[SharedObject 🍱](https://github.com/lorenzofiamingo/SwiftUI-SharedObject)
+[SwiftUI VerticalTabView 🔝](https://github.com/lorenzofiamingo/SwiftUI-VerticalTabView)
+
+[SwiftUI SharedObject 🍱](https://github.com/lorenzofiamingo/SwiftUI-SharedObject)
