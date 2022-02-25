@@ -4,7 +4,7 @@
 
 ## Usage
 
-`PhotosPicker` has similar same API and behavior as other [Presentation Modifiers](https://developer.apple.com/documentation/swiftui/view-presentation).
+`PhotosPicker` has similar API and behavior as other [Presentation Modifiers](https://developer.apple.com/documentation/swiftui/view-presentation).
 ```swift
 import SwiftUI
 import PhotosPicker
