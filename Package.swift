@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "SwiftUI-PhotosPicker",
+    name: "swiftui-photos-picker",
     platforms: [
         .iOS(.v13),
         .macOS(.v10_15),
