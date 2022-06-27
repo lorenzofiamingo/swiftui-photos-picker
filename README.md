@@ -35,6 +35,8 @@ struct ContentView: View {
 
 ## Other projects
 
+[SwiftUI AsyncButton 🖲️](https://github.com/lorenzofiamingo/swiftui-async-button)
+
 [SwiftUI MapItemPicker 🗺️](https://github.com/lorenzofiamingo/swiftui-map-item-picker)
 
 [SwiftUI CachedAsyncImage 🗃️](https://github.com/lorenzofiamingo/swiftui-cached-async-image)
