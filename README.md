@@ -35,6 +35,8 @@ struct ContentView: View {
 
 ## Other projects
 
+[SwiftUI VariadicViews 🥞](https://github.com/lorenzofiamingo/swiftui-variadic-views)
+
 [SwiftUI AsyncButton 🖲️](https://github.com/lorenzofiamingo/swiftui-async-button)
 
 [SwiftUI MapItemPicker 🗺️](https://github.com/lorenzofiamingo/swiftui-map-item-picker)
